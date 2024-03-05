@@ -1,7 +1,7 @@
 ### Hi there 👋
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=300f20t&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=300f20t&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **300f20t/300f20t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
