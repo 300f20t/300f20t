@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=300f20t&show_icons=true"></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=300f20t&theme=radical&show_icons=true" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=300f20t&title_color=ffffff&text_color=fcfcfc&bg_color=000000&layout=compact" alt="300f20t" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=300f20t&theme=radical&layout=compact" alt="300f20t" /></p>
 
 <!--
 **300f20t/300f20t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
